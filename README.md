@@ -12,7 +12,7 @@ Implementation of ROS2 on PX4 platform to detect Obstacles and avoid them using 
     MAV_1_CONFIG = TELEM2
     UXRCE_DDS_CFG = 0 (Disabled)
     SER_TEL2_BAUD = 57600
-  #Following paramaters are to enable collision prevention
+  #Following paramaters are to enable collision prevention based on your setup
   CP_DIST =
   CP_DELAY =
   CP_GUIDE_ANG =
